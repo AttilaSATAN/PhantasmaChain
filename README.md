@@ -48,7 +48,7 @@
 
 Phantasma implements a decentralized content distribution system running on the blockchain, with strong emphasis on privacy and security.
 
-To learn more about Phantasma, please read the [White Paper](https://phantasma.io/phantasma_whitepaper.pdf).
+To learn more about Phantasma, please read the [White Paper](https://phantasma.io/whitepaper/).
 
 ## Components
 
